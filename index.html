@@ -114,7 +114,10 @@
     </div>
 </body>
 <script>
-    document.getElementsByTagName("a").target = "_blank";
+    (function () {
+        document.getElementsByTagName("a").target = "_blank";
+    })();
+    // document.getElementsByTagName("a").target = "_blank";
 </script>
 
 </html>
