@@ -19,7 +19,7 @@ overflow](https://stackoverflow.com/users/7315848/gautham-kolluru) \|
 
 ## Summary
 
-Love **solving problems _in_** consuming data (_Data Engineering_) and **_by_** consuming data (_AI/Data Science_) using **Programming** and **Mathematics**, along with learning new technologies and implementing them in building & optimizing systems & solutions.
+I Love **solving problems _in_** consuming data (_Data Engineering_) and **_by_** consuming data (_AI/Data Science_) using **Programming** and **Mathematics**, along with learning new technologies and implementing them by building & optimizing systems & solutions.
 
 ## Skills
 
@@ -39,7 +39,7 @@ Operating Systems: **Unix (macOS), Linux & Windows**
 
 Building a log/file aggregator with the capability of dumping the aggregated logs to a single file basing on different log levels/keywords or forwarding them as an email to the concerned with simple mail setup configuration along with a scheduler to automate the same.
 
-_Working to implement AI for understanding the logs and write the gist to the target_
+_Implement AI for understanding the logs and write the gist to the target_
 
 Built a network security _threat analytics_ system involving scheduled multiple data transfers between different systems along with statistics based analytics system resulting in threat and compromise identification and subscriber segmentation.
 
