@@ -1,5 +1,5 @@
 tasks:
   - init: |
-      sudo apt-get install pandoc
+      sudo apt-get install pandoc -y
       sudo apt-get update
-      sudo apt-get install texlive
+      sudo apt-get install texlive -y
