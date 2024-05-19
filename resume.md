@@ -1,8 +1,8 @@
 ---
 # title: "Gautham Kolluru"
 # author: Gautham Kolluru
-# date: June 09, 2022
-geometry: "left=0.75cm,right=0.75cm,top=1cm,bottom=1cm"
+# date: May 19, 2024
+geometry: "left=0.75cm,right=0.75cm,top=1.5cm,bottom=1.5cm"
 output: pdf_document
 ---
 
@@ -39,7 +39,7 @@ Operating Systems: **Unix (macOS), Linux & Windows**
 
 Building a log/file aggregator with the capability of dumping the aggregated logs to a single file basing on different log levels/keywords or forwarding them as an email to the concerned with simple mail setup configuration along with a scheduler to automate the same.
 
-_Implement AI for understanding the logs and write the gist to the target_
+_Leveraging **LLMs** for summary generation_
 
 Built a network security _threat analytics_ system involving scheduled multiple data transfers between different systems along with statistics based analytics system resulting in threat and compromise identification and subscriber segmentation.
 
@@ -48,7 +48,7 @@ Built a network security _threat analytics_ system involving scheduled multiple 
 - Leveraged upon MLFlow open-source python package for maintaining and visualising analytics process logs
 - Integrated the system with Cisco's SecureX platform
 
-_Built completely detachable (loosely coupled) **Stastistical Analytics** module along with the data transformations around it for wider integration capabilities_
+_Built a customised (loosely coupled) **K-means** module along with the data transformations around it_
 
 ### Data Engineer, [84.51<sup>o</sup>](https://www.8451.com); Cincinnati, OH, USA --- 2020-2021
 
