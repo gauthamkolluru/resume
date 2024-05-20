@@ -27,7 +27,7 @@ Programming Languages: **Python, Java, JavaScript, Rust, SQL, Bash, C, C++, BASI
 
 Databases: **SQL Server, Mysql, SQLite3, Postgresql, Mongodb**
 
-Cloud, Bigdata and Orchestration: **Google Cloud Platform (GCP), Hadoop, Spark, Snowflake, Airflow**
+Cloud, Bigdata and Orchestration: **Google Cloud Platform (GCP), Hadoop, Spark, Dask, Snowflake, Airflow**
 
 AI/ML (& related): **Scikit-Learn, TensorFlow, DialogFlow, RASA, Matplotlib, Seaborn**
 
