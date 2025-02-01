@@ -19,9 +19,11 @@ overflow](https://stackoverflow.com/users/7315848/gautham-kolluru) \|
 
 ## Summary
 
-Love **solving problems _in_** consuming data (_Data Engineering_) and **_by_** consuming data (_AI/Data Science_) using
-**Programming** and **Mathematics**, along with learning new technologies and implementing them in building & optimizing
-systems & solutions.
+I Love **solving problems _in_** consuming data (_Data Engineering_) and **_by_** consuming data (_AI/Data Science_) using
+**coding**.
+
+I am a **Data Engineer** with a passion for storing data efficiently and build robust data pipelines for Data Scientists.
+
 
 ## Skills
 
@@ -29,14 +31,13 @@ Programming Languages: **Python, Java, Rust, SQL, Bash**
 
 Cloud & Bigdata: **Google Cloud Platform (GCP), Hadoop, Spark, Snowflake, Airflow**
 
-Others: Can __RTMD__ (Read the Manual & Develop)
-
 ## Experience
 
 ### Data Engineer, [Cisco](https://www.cisco.com); Raleigh, NC, USA --- 2021-Present
 
-- *Designing and developing 2 data pipelines* to build a chatbot that could convert a natural language query into a SQL
-  query using LLM.
+- Enhanced the functionality of existing data pipelines and improved the performance by 20% on average.
+- Enhanced the performance of a LLM and RAG based chatbot by 30% by implementing caching.
+- *Designed and developed data pipelines* to build a chatbot that could convert a natural language query into a SQL query using LLM.
 - Built multiple automated data pipelines for major telecom and networking companies in USA collecting router status
   periodically for further analytics
 - Built pipelines around **Threat Analytics** system for a major telecom customer that has been running since 3 years
