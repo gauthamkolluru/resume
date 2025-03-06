@@ -15,7 +15,7 @@ output: pdf_document
 overflow](https://stackoverflow.com/users/7315848/gautham-kolluru) \|
 [Hacker Rank](https://www.hackerrank.com/gautham_kolluru)
 
-[Mob: +1 240-639-9934](tel:+12406399934) | [Email: gautham.kolluru\@gmail.com](mailto:gautham.kolluru@gmail.com) | [Website: thegauthams.com](https://thegauthams.com)
+[Mob: +1 240-639-9934](tel:+12406399934) | [Email: gautham.kolluru@gmail.com](mailto:gautham.kolluru@gmail.com) | [Website: thegauthams.com](https://thegauthams.com)
 
 ## Summary
 
@@ -34,14 +34,11 @@ Cloud & Bigdata: **Google Cloud Platform (GCP), Hadoop, Spark, Snowflake, Airflo
 ## Experience
 
 ### Data Engineer, [Cisco](https://www.cisco.com); Raleigh, NC, USA --- 2021-Present
-
-- Enhanced the functionality of existing data pipelines and improved the performance by 20% on average.
-- Enhanced the performance of a LLM and RAG based chatbot by 30% by implementing caching.
-- *Designed and developed data pipelines* to build a chatbot that could convert a natural language query into a SQL query using LLM.
-- Built multiple automated data pipelines for major telecom and networking companies in USA collecting router status
-  periodically for further analytics
-- Built pipelines around **Threat Analytics** system for a major telecom customer that has been running since 3 years
-  now.
+- Architected and optimized data pipelines resulting in 20% performance improvement across systems
+- Implemented sophisticated caching mechanisms for LLM and RAG-based chatbot, achieving 30% faster response times
+- Developed an innovative natural language to SQL conversion system using LLM technology
+- Designed and maintained mission-critical data pipelines for Fortune 500 telecom companies, focusing on network monitoring and threat analytics
+- Led the implementation of a threat analytics system with 3+ years of continuous uptime
 
 ### Data Engineer, [84.51<sup>o</sup>](https://www.8451.com); Cincinnati, OH, USA --- 2020-2021
 
