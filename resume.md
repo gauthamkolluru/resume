@@ -1,7 +1,4 @@
 ---
-# title: "Gautham Kolluru"
-# author: Gautham Kolluru
-# date: June 09, 2022
 geometry: "left=0.75cm,right=0.75cm,top=1cm,bottom=1cm"
 output: pdf_document
 ---
@@ -16,7 +13,7 @@ output: pdf_document
 [+1 240-639-9934](tel:+12406399934) | [gautham.kolluru@gmail.com](mailto:gautham.kolluru@gmail.com) | [thegauthams.com](https://thegauthams.com)
 
 ## Professional Summary
-Distinguished Senior Data Engineer with extensive experience in large-scale distributed systems, ML infrastructure, and enterprise data platforms. Specialized in:
+Data Engineer with extensive experience in large-scale distributed systems, ML infrastructure, and enterprise data platforms. Specialized in:
 - Architecting distributed systems processing 20B+ daily records with sub-second latency
 - Building production ML systems including LLM-powered applications serving Fortune 100 companies
 - Leading cross-functional teams in delivering mission-critical data infrastructure at scale
@@ -32,7 +29,7 @@ Distinguished Senior Data Engineer with extensive experience in large-scale dist
 
 ## Professional Experience
 
-### Senior Data Engineer, [Cisco](https://www.cisco.com); Raleigh, NC --- 2021-Present
+### Data Engineer, [Cisco](https://www.cisco.com); Raleigh, NC --- 2021-Present
 
 #### Key Projects & Impact:
 
@@ -41,14 +38,12 @@ Distinguished Senior Data Engineer with extensive experience in large-scale dist
 - Achieved 70% latency reduction through distributed caching architecture
 - Engineered parallel processing system analyzing 10,000+ network devices in 25 seconds
 - Reduced network analysis time from hours to minutes using LangChain/LangGraph
-- Impact: $2M+ annual operational cost savings through automated network intelligence
 
 ##### Enterprise Analytics Platform (Cisco Ready)
 - Built enterprise-scale RAG system processing 100K+ documents with sub-second query latency
 - Implemented dynamic knowledge graph enabling real-time updates and 95% retrieval accuracy
-- Reduced time-to-insight by 90% for 10,000+ global users
+- Reduced time-to-insight by 90% 
 - Engineered automated document processing pipeline with intelligent categorization
-- Impact: 80% reduction in analytics query resolution time across organization
 
 ##### WAN Automation Engine
 - Led development of enterprise network automation platform serving major ISPs
@@ -62,7 +57,7 @@ Distinguished Senior Data Engineer with extensive experience in large-scale dist
 - Processed 100M+ daily network events with zero data loss
 - Implemented cross-platform compatibility layer for diverse technology stack
 - Achieved 99.99% system reliability for mission-critical security operations
-- Impact: Protected $10B+ network infrastructure through real-time threat detection
+- Impact: Protected $10B+ network infrastructure through near real-time threat detection
 
 ### Data Engineer, [84.51°](https://www.8451.com); Cincinnati, OH --- 2020-2021
 - Architected data pipeline processing 20B rows (5TB+) with 40 transformation steps in 23 minutes
@@ -91,7 +86,4 @@ Distinguished Senior Data Engineer with extensive experience in large-scale dist
 B. Tech in Computer Science Engineering --- Andhra University, 2009
 
 ## Additional Achievements
-- **System Design:** Architected distributed systems serving 200M+ users
 - **Scale:** Built data pipelines processing 20B+ daily records
-- **Impact:** Delivered $10M+ annual cost savings through automation
-- **Leadership:** Led 5+ engineering teams in delivering enterprise solutions
