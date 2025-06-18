@@ -12,13 +12,6 @@ output: pdf_document
 
 [+1 240-639-9934](tel:+12406399934) | [gautham.kolluru@gmail.com](mailto:gautham.kolluru@gmail.com) | [thegauthams.com](https://thegauthams.com)
 
-## Professional Summary
-Data Engineer with extensive experience in large-scale distributed systems, ML infrastructure, and enterprise data platforms. Specialized in:
-- Architecting distributed systems processing 20B+ daily records with sub-second latency
-- Building production ML systems including LLM-powered applications serving Fortune 100 companies
-- Leading cross-functional teams in delivering mission-critical data infrastructure at scale
-- Designing fault-tolerant data pipelines with 99.99% uptime for enterprise customers
-
 ## Technical Expertise
 - **Core Technologies:** Distributed Systems, System Design, Microservices Architecture, Real-time Processing
 - **Languages:** Python (NumPy, Pandas, PySpark), Java, Rust, SQL, Bash
@@ -34,10 +27,8 @@ Data Engineer with extensive experience in large-scale distributed systems, ML i
 #### Key Projects & Impact:
 
 ##### Enterprise Network Intelligence System (SVYUM)
-- Architected ML-powered network analysis platform for Fortune 100 telecom provider (120M+ customers)
-- Achieved 70% latency reduction through distributed caching architecture
-- Engineered parallel processing system analyzing 10,000+ network devices in 25 seconds
-- Reduced network analysis time from hours to minutes using LangChain/LangGraph
+
+- Built LLM based chat bot for network analysis of 10,000+ devices with an average query to response duration of around 50 seconds soon to be deployed at a Fortune 100 telecom provider (120M+ customers)
 
 ##### Enterprise Analytics Platform (Cisco Ready)
 - Built enterprise-scale RAG system processing 100K+ documents with sub-second query latency
