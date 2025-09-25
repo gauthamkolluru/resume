@@ -1,0 +1,116 @@
+<!-- # Gautham Kolluru   [![Download](download.svg){#download}](pdfs/g_tpr_05282021.pdf) {#gautham-kolluru} -->
+<h1 id="gautham-kolluru">Gautham Kolluru</h1>
+<p><a href="https://github.com/gauthamkolluru">GitHub</a> | <a
+href="https://www.linkedin.com/in/gautamkolluru/">LinkedIn</a> | <a
+href="https://stackoverflow.com/users/7315848/gautham-kolluru">Stack
+Overflow</a> | <a
+href="https://www.hackerrank.com/gautham_kolluru">HackerRank</a></p>
+<p><a href="tel:+12406399934">+1 240-639-9934</a> | <a
+href="mailto:gautham.kolluru@gmail.com">gautham.kolluru@gmail.com</a> |
+<a href="https://thegauthams.com">thegauthams.com</a></p>
+<h2 id="professional-summary">Professional Summary</h2>
+<p>Data Engineer with extensive experience in large-scale distributed
+systems, ML infrastructure, and enterprise data platforms. Specialized
+in: - Architecting distributed systems processing 20B+ daily records
+with sub-second latency - Building production ML systems including
+LLM-powered applications serving Fortune 100 companies - Designing
+fault-tolerant data pipelines with 5-9’s of uptime for enterprise
+customers</p>
+<h2 id="technical-expertise">Technical Expertise</h2>
+<ul>
+<li><strong>Core Technologies:</strong> Distributed Systems, System
+Design, Microservices Architecture, Real-time Processing</li>
+<li><strong>Languages:</strong> Python (NumPy, Pandas, PySpark), Java,
+Rust, SQL, Bash</li>
+<li><strong>ML/AI:</strong> LangChain, LangGraph, Large Language Models
+(LLMs), RAG, NLP, TensorFlow</li>
+<li><strong>Cloud &amp; Infrastructure:</strong> GCP (BigQuery,
+Dataproc, Cloud Storage), Apache Spark, Hadoop, Airflow</li>
+<li><strong>Data Systems:</strong> Snowflake, Data Lakes, OLAP/OLTP,
+Real-time Analytics</li>
+<li><strong>DevOps:</strong> Docker, Kubernetes, CI/CD, Git,
+Infrastructure as Code</li>
+</ul>
+<h2 id="professional-experience">Professional Experience</h2>
+<h3 id="data-engineer-cisco-raleigh-nc-2021-present">Data Engineer, <a
+href="https://www.cisco.com">Cisco</a>; Raleigh, NC — 2021-Present</h3>
+<ul>
+<li>Developed ML-powered network analysis platform for Fortune 100
+telecom provider (120M+ customers)</li>
+<li>Achieved 70% latency reduction through distributed caching
+architecture</li>
+<li>Engineered parallel processing system analyzing 10,000+ network
+devices in 25 seconds</li>
+<li>Built pipelines processing 100M+ daily network events with zero data
+loss</li>
+<li>Protected $10B+ network infrastructure through near real-time threat
+detectio</li>
+</ul>
+<h3 id="data-engineer-84.51-cincinnati-oh-2020-2021">Data Engineer, <a
+href="https://www.8451.com">84.51°</a>; Cincinnati, OH — 2020-2021</h3>
+<ul>
+<li>Architected data pipeline processing 20B rows (5TB+) with 40
+transformation steps in 23 minutes</li>
+<li>Achieved 40% performance improvement through distributed computing
+optimization</li>
+<li>Built data quality framework ensuring 99.9% accuracy for customer
+analytics</li>
+</ul>
+<h3 id="datanlp-engineer-cisco-bengaluru-india-2019-2020">Data/NLP
+Engineer, <a href="https://www.cisco.com">Cisco</a>; Bengaluru, India —
+2019-2020</h3>
+<ul>
+<li>Developed NLP chatbot system handling 10K+ daily conversations with
+95% accuracy</li>
+<li>Built fault-tolerant data synchronization between cloud platforms
+(GCP, Snowflake)</li>
+<li>Implemented incremental ETL pipelines with zero data loss</li>
+</ul>
+<h3 id="software-engineer-global-data-hyderabad-tg-ind-2018">Software
+Engineer, <a href="https://www.globaldata.com">Global Data</a>;
+Hyderabad, TG, IND — 2018</h3>
+<ul>
+<li>Engineered robust web scraping system processing 1M+ pages monthly
+from diverse sources using distributed architecture</li>
+<li>Implemented intelligent proxy rotation and multi-processing,
+achieving 3x throughput improvement</li>
+<li>Designed fault-tolerant ETL pipeline with 99.9% reliability for
+mission-critical financial data</li>
+</ul>
+<h3
+id="technical-lead-invincible-software-solutions-visakhapatnam-ind-2017-2018">Technical
+Lead, <a href="http://www.issi-india.com">Invincible Software
+Solutions</a>; Visakhapatnam, IND — 2017-2018</h3>
+<ul>
+<li>Led development of 12 full-stack applications for US federal clients
+using microservices architecture</li>
+<li>Implemented real-time analytics dashboards using Tableau and SSRS,
+processing 10M+ daily records</li>
+</ul>
+<h3 id="project-engineer-royal-oman-police-muscat-om-2013-2015">Project
+Engineer, <a href="https://www.rop.gov.om/english/index.html">Royal Oman
+Police</a>; Muscat, OM — 2013-2015</h3>
+<ul>
+<li>Architected high-performance OLTP/OLAP database system for
+nationwide speed camera network</li>
+<li>Implemented automated ETL system processing 500K+ daily transactions
+with zero data loss</li>
+</ul>
+<h3
+id="automation-engineer-mott-macdonald-abu-dhabi-uae-2009-2012">Automation
+Engineer, <a
+href="%5Bhttps://www.rop.gov.om/english/index.html%5D(https://www.mottmac.com/en-us/)">Mott
+MacDonald</a>; Abu Dhabi, UAE — 2009-2012</h3>
+<ul>
+<li>Automated the Sewage Treatment Plant and Landscaping at Yas
+Island</li>
+<li>Automated the Vacuum Pumping Station at Emirati Housing Community -
+Phase 1.</li>
+</ul>
+<h2 id="education">Education</h2>
+<p>B. Tech in Computer Science Engineering — Andhra University, 2009</p>
+<h2 id="additional-achievements">Additional Achievements</h2>
+<ul>
+<li><strong>Scale:</strong> Built data pipelines processing 20B+ daily
+records</li>
+</ul>
