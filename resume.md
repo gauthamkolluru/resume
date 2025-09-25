@@ -12,11 +12,13 @@ output: pdf_document
 
 [+1 240-639-9934](tel:+12406399934) | [gautham.kolluru@gmail.com](mailto:gautham.kolluru@gmail.com) | [thegauthams.com](https://thegauthams.com)
 
+
 ## Professional Summary
 Data Engineer with extensive experience in large-scale distributed systems, ML infrastructure, and enterprise data platforms. Specialized in:
 - Architecting distributed systems processing 20B+ daily records with sub-second latency
 - Building production ML systems including LLM-powered applications serving Fortune 100 companies
 - Designing fault-tolerant data pipelines with 5-9's of uptime for enterprise customers
+
 
 ## Technical Expertise
 - **Core Technologies:** Distributed Systems, System Design, Microservices Architecture, Real-time Processing
@@ -35,6 +37,7 @@ Data Engineer with extensive experience in large-scale distributed systems, ML i
 - Engineered parallel processing system analyzing 10,000+ network devices in 25 seconds
 - Built pipelines processing 100M+ daily network events with zero data loss
 - Protected $10B+ network infrastructure through near real-time threat detectio
+
 
 ### Data Engineer, [84.51°](https://www.8451.com); Cincinnati, OH --- 2020-2021
 - Architected data pipeline processing 20B rows (5TB+) with 40 transformation steps in 23 minutes
