@@ -16,8 +16,7 @@ output: pdf_document
 Data Engineer with extensive experience in large-scale distributed systems, ML infrastructure, and enterprise data platforms. Specialized in:
 - Architecting distributed systems processing 20B+ daily records with sub-second latency
 - Building production ML systems including LLM-powered applications serving Fortune 100 companies
-- Leading cross-functional teams in delivering mission-critical data infrastructure at scale
-- Designing fault-tolerant data pipelines with 99.99% uptime for enterprise customers
+- Designing fault-tolerant data pipelines with 5-9's of uptime for enterprise customers
 
 ## Technical Expertise
 - **Core Technologies:** Distributed Systems, System Design, Microservices Architecture, Real-time Processing
@@ -31,33 +30,11 @@ Data Engineer with extensive experience in large-scale distributed systems, ML i
 
 ### Data Engineer, [Cisco](https://www.cisco.com); Raleigh, NC --- 2021-Present
 
-#### Key Projects & Impact:
-
-##### Enterprise Network Intelligence System (SVYUM)
-- Architected ML-powered network analysis platform for Fortune 100 telecom provider (120M+ customers)
+- Developed ML-powered network analysis platform for Fortune 100 telecom provider (120M+ customers)
 - Achieved 70% latency reduction through distributed caching architecture
 - Engineered parallel processing system analyzing 10,000+ network devices in 25 seconds
-- Reduced network analysis time from hours to minutes using LangChain/LangGraph
-
-##### Enterprise Analytics Platform (Cisco Ready)
-- Built enterprise-scale RAG system processing 100K+ documents with sub-second query latency
-- Implemented dynamic knowledge graph enabling real-time updates and 95% retrieval accuracy
-- Reduced time-to-insight by 90% 
-- Engineered automated document processing pipeline with intelligent categorization
-
-##### WAN Automation Engine
-- Led development of enterprise network automation platform serving major ISPs
-- Architected version-agnostic data transformation system with 100% data integrity
-- Reduced customer upgrade cycles from weeks to days for 1000+ network devices
-- Successfully deployed to multiple tier-1 regional service providers
-- Impact: 70% reduction in network configuration management time
-
-##### Enterprise Threat Analytics System
-- Designed threat analytics platform for Fortune 50 telecom provider (200M+ customers)
-- Processed 100M+ daily network events with zero data loss
-- Implemented cross-platform compatibility layer for diverse technology stack
-- Achieved 99.99% system reliability for mission-critical security operations
-- Impact: Protected $10B+ network infrastructure through near real-time threat detection
+- Built pipelines processing 100M+ daily network events with zero data loss
+- Protected $10B+ network infrastructure through near real-time threat detectio
 
 ### Data Engineer, [84.51°](https://www.8451.com); Cincinnati, OH --- 2020-2021
 - Architected data pipeline processing 20B rows (5TB+) with 40 transformation steps in 23 minutes
@@ -81,6 +58,10 @@ Data Engineer with extensive experience in large-scale distributed systems, ML i
 ### Project Engineer, [Royal Oman Police](https://www.rop.gov.om/english/index.html); Muscat, OM --- 2013-2015
 - Architected high-performance OLTP/OLAP database system for nationwide speed camera network
 - Implemented automated ETL system processing 500K+ daily transactions with zero data loss
+
+### Automation Engineer, [Mott MacDonald]([https://www.rop.gov.om/english/index.html](https://www.mottmac.com/en-us/)); Abu Dhabi, UAE --- 2009-2012
+- Automated the Sewage Treatment Plant and Landscaping at Yas Island
+- Automated the Vacuum Pumping Station at Emirati Housing Community - Phase 1.
 
 ## Education
 B. Tech in Computer Science Engineering --- Andhra University, 2009
