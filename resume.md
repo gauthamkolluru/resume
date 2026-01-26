@@ -27,7 +27,6 @@ Senior Machine Learning & Data Engineer with 10+ years building production-scale
 
 - **Contributed to ML infrastructure development** for network intelligence platform serving Fortune 100 telecom provider (120M+ customers), enabling predictive network analytics and anomaly detection at scale
 - **Architected and deployed production LLM-powered application** using LangChain and RAG, reducing network troubleshooting time by 60% and improving customer satisfaction scores by 25%
-- **Engineered distributed ML inference pipeline** processing 100T+ daily network events using Kubernetes, achieving 70% latency reduction through intelligent caching and model optimization
 - **Built near real-time anomaly detection system** analyzing 10,000+ network devices using parallel processing, preventing $10M+ in potential network outages
 - **Designed fault-tolerant data pipeline** with 99.99% uptime protecting $10B+ network infrastructure through real-time threat detection
 
