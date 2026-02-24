@@ -23,14 +23,14 @@ Senior Machine Learning & Data Engineer with 10+ years building production-scale
 
 ## Professional Experience
 
-### Senior Data Engineer, [Cisco](https://www.cisco.com); Raleigh, NC --- 2021-Present
+### Data Engineer, [Cisco](https://www.cisco.com); Raleigh, NC --- 2021-Present
 
 - **Contributed to ML infrastructure development** for network intelligence platform serving Fortune 100 telecom provider (120M+ customers), enabling predictive network analytics and anomaly detection at scale
 - **Architected and deployed production LLM-powered application** using LangChain and RAG, reducing network troubleshooting time by 60% and improving customer satisfaction scores by 25%
 - **Built near real-time anomaly detection system** analyzing 10,000+ network devices using parallel processing, preventing $10M+ in potential network outages
 - **Designed fault-tolerant data pipeline** with 99.99% uptime protecting $10B+ network infrastructure through real-time threat detection
 
-### Senior Data Engineer, [84.51°](https://www.8451.com); Cincinnati, OH --- 2020-2021
+### Data Engineer, [84.51°](https://www.8451.com); Cincinnati, OH --- 2020-2021
 
 - **Architected enterprise-scale ML feature store** processing 20B rows (5TB+) with 40+ transformation steps, reducing feature engineering time by 80% for data science teams
 - **Led performance optimization initiative** achieving 40% latency improvement through distributed computing optimization (Spark tuning, data partitioning strategies) for customer analytics pipelines
